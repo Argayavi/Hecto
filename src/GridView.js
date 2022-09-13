@@ -31,6 +31,20 @@ function GridView() {
 <div className="row1_text2"> 
 <label> $26.00 $42.00</label></div></div>
 
+<div className="row1_1">
+<div className="row1_image1">
+<img src={image2} /></div>
+<div className="row1_text"> 
+<label> Ultricies condimentum imperdiet</label></div>
+<div className="row1_button"> 
+<button><img src={Ellipse28} /> </button>
+<button><img src={Ellipse29} /></button>
+<button><img src={Ellipse30} /> </button></div>
+<div className="row1_text2"> 
+<label> $26.00 $42.00</label></div></div>
+<div className="square"> 
+
+</div>
 </div>
 
 
