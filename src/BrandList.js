@@ -1,12 +1,12 @@
 import "./BrandList.css"
-import image1174 from "./Images/image1174.png"
+import BrandList_brands from "./Images/BrandList_brands.png"
 
 function BrandList() {
-    return<>
-<div className="BrandList_image"> 
+    return <>
+        <div className="BrandList_image">
 
-<img src={image1174} />
-</div>
+            <img src={BrandList_brands} />
+        </div>
 
 
     </>
