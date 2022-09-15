@@ -6,11 +6,12 @@ import ReactDOM from 'react-dom/client';
 // import Subbanner from './Subbanner';
 // import GridView from './GridView';
 // import BrandList from './BrandList';
-import Login from './Login';
+// import Login from './Login';
+import ProductDescription from './ProductDescription';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Login/>
+    <ProductDescription/>
   </React.StrictMode>
 );
 
