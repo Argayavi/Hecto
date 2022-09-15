@@ -1,6 +1,8 @@
 .ProductDescription_body {
-    margin-left: 200px;
-    margin-right: 300px;
+    padding-left: 200px;
+    padding-right: 300px;
+    padding-top: 20px;
+    background-color: #F9F8FE;
 
 }
 
@@ -12,7 +14,7 @@
 .ProductDescription_r1_button button {
     border: none;
     color: #151875;
-    background-color: white;
+    background-color: #F9F8FE;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1.1rem;
     font-weight: bold;
