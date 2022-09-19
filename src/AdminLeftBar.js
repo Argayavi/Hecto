@@ -10,7 +10,7 @@ import { AiFillPlusCircle } from "react-icons/ai";
 import AdminLeftBar_humanimage from "./Images/AdminLeftBar_humanimage.jpg"
 function AdminLeftBar() {
     return <>
-        <div className="body">
+        <div className="AdminLeftBar_body">
             <div className="AdminLeftBar_top">
 
                 <div className="AdminLeftBar_button"> <button> <FaCompass style={{ color: "#C3CAD9", fontSize: "1rem" }} />    </button></div>
