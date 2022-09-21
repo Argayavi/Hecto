@@ -10,7 +10,7 @@ import BrandList from './BrandList';
 import Login from './Login';
 import AdminLeftBar from './AdminLeftBar';
 import ProductDescription from './ProductDescription';
-import AddressList from './AddressList';
+import AddressList from './AddressList'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
