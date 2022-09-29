@@ -13,7 +13,7 @@ import BrandList from './BrandList';
 import Login from './Login';
 import AdminLeftBar from './AdminLeftBar';
 import ProductDescription from './ProductDescription';
-
+import AdminUploadFile from './AdminUploadFile';
 function Navigation() {
     return <>
         < HashRouter>
@@ -27,7 +27,7 @@ function Navigation() {
                 <Route path="/Login" element={<Login />}> </Route>
                 <Route path="/ProductDescription" element={<ProductDescription />}> </Route>
                 <Route path="/AdminLeftBar" element={<AdminLeftBar />}> </Route>
-
+                <Route path="/AdminUploadFile" element={<AdminUploadFile />}> </Route>
             </Routes>
         </HashRouter>
 

@@ -7,7 +7,7 @@ function AddressList() {
         <div className="AddressList_body">
             <div className="AddressList_col0">
                 <div className="AddressList_heading">
-                    <label>x </label>
+                    <label> </label>
                 </div>
 
                 <div className="AddressList_col0_button1">
