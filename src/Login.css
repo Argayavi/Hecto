@@ -15,10 +15,10 @@
 
 }
 
-.Login_borderbox:hover {
+/* .Login_borderbox:hover {
     border-style: solid;
-    border-color: rgb(31, 31, 229);
-}
+    border-color: rgb(31, 31, 229); */
+/* } */
 
 .Login_l1 {
     display: flex;
