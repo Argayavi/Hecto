@@ -16,7 +16,7 @@ import AdminUploadUrl from './AdminUploadUrl'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Login/>
+    <AddressList/>
   </React.StrictMode>
 );
 

@@ -36,7 +36,7 @@ function AddressList() {
                     <label> Address 1</label>
                     <label>City1</label>
                     <label>State</label></div>
-                <div className="AddressList_address" > <label> Add New</label></div>
+                <div className="AddressList_address1" > <label> Add New</label></div>
             </div>
             <div className="AddressList_col2">
                 <div className="AddressList_heading">
